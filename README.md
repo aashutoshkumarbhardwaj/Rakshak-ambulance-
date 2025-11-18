@@ -29,7 +29,9 @@ npm install
 npm run dev
 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next/SSR	
+
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node	
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript	
 ![Prisma](https://img.shields.io/badge/-Prisma-purple?logo=prisma[Docker](https://img.shields.io/badge/-Docker-blue?logo=docker	
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgres	
